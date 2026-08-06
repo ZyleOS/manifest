@@ -1401,8 +1401,8 @@
 <!-- Remove unused AOSP repos -->
 <include name="snippets/remove.xml" />
 
-    <!-- Superior OS repos -->
-<include name="snippets/superior.xml" />
+    <!-- Zyle OS repos -->
+<include name="snippets/zyle.xml" />
 
 <!-- Some Lineage repos -->
 <include name="snippets/los.xml" />
